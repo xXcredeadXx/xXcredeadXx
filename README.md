@@ -1,4 +1,6 @@
-# 💫 About Me:
+# Hi👋! I am xXcredeadXx
+
+## 💫 About Me:
 🔭 I’m currently working on Roblox games<br>🌱 I’m currently learning Python & C#
 
 
