@@ -1,7 +1,7 @@
 # Hi👋! I am xXcredeadXx
 
 ## 💫 About Me:
-🔭 I’m currently working on Roblox games<br>🌱 I’m currently learning Python & C#
+🔭 I’m currently working on Roblox games<br>🌱 I’m currently learning Python & Java
 
 
 # 💻 Tech Stack:
